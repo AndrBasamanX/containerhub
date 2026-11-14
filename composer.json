@@ -1,4 +1,6 @@
 {
+    "name": "containerhub/platform",
+    "description": "Cross-platform container management platform",
     "type": "project",
     "license": "proprietary",
     "minimum-stability": "stable",
